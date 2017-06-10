@@ -8,8 +8,9 @@ A 2 dimensional Particle Filter was implemented in C++. The algorithm is given s
 To evaluate the results main.cpp communicates with Udacity's *Term 2 Simulator* using uWebSocketIO
 
 
-![Figure 1-1](Screenshot%20from%202017-06-10%2017-35-51.png?raw=true "Figure 1-1")
+
+![Evaluating results using Udacity's Term 2 Simulator](Screenshot%20from%202017-06-10%2017-35-51.png?raw=true "Evaluating results using Udacity's Term 2 Simulator")
 
 
 
-Want to know more about Unscented Kalman Filters? Have a look at this one: https://en.wikipedia.org/wiki/Kalman_filter#Unscented_Kalman_filter
+Want to know more about Particle Filters or Sequential Monte Carlo (SMC) methods? Have a look at this one: https://en.wikipedia.org/wiki/Particle_filter
