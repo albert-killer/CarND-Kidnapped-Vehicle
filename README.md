@@ -7,8 +7,6 @@ A 2 dimensional Particle Filter was implemented in C++. The algorithm is given s
 
 To evaluate the results *main.cpp* communicates with Udacity's *Term 2 Simulator* using *uWebSocketIO* :
 
-- [x] This is a complete item
-- [ ] This is an incomplete ite
 
 ![Evaluating results using Udacity's Term 2 Simulator](Screenshot%20from%202017-06-10%2017-35-51.png?raw=true "Evaluating results using Udacity's Term 2 Simulator")
 
