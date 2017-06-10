@@ -8,7 +8,8 @@ A 2 dimensional Particle Filter was implemented in C++. The algorithm is given s
 To evaluate the results main.cpp communicates with Udacity's *Term 2 Simulator* using uWebSocketIO
 
 
-/play rimshot
+![](Screenshot from 2017-06-10 17-35-51.png?raw=true)
+
 
 
 Want to know more about Unscented Kalman Filters? Have a look at this one: https://en.wikipedia.org/wiki/Kalman_filter#Unscented_Kalman_filter
